@@ -8,6 +8,9 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>Étienne Lacasse</title>
+        <meta name="description" content="Free Web tutorials" />
+        <meta name="keywords" content="Étienne Etienne Lacasse étienne etienne lacasse enseignant" />
+        <meta name="author" content="Étienne Lacasse" />
       </Head>
       <div className='h-screen w-screen flex flex-col'>
         <Header />
