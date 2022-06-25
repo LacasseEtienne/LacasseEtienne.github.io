@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className='text-lg'>de l&apos;informatique</h1>
       </div>
       <img
-        src='/etienne-lacasse.jpg'
+        src='/etienne-lacasse.jpeg'
         className='w-96 rounded-3xl overflow-hidden'
         alt='Picture of Étienne Lacasse'
       />
