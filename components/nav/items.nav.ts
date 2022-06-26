@@ -14,6 +14,10 @@ export const navItems: NavItemType[] = [
         name: 'Programmation objet 2',
         href: '/ift/programmation-objet-2',
       },
+      {
+        name: 'Développement Web 2',
+        href: '/ift/developpement-web-2',
+      },
     ],
   },
   {
